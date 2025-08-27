@@ -33,22 +33,22 @@ You can run the project directly in **GitHub Codespaces**:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/Menu.png)
+![Main Menu](src/screenshots/Menu.png)
 
 ### Creating a Note
-![Creating a Note](screenshots/Create_a_note.png)
+![Creating a Note](src/screenshots/Create_a_note.png)
 
 ### Modifying a Note
-![Modifying a Note](screenshots/Modify_a_note.png)
+![Modifying a Note](src/screenshots/Modify_a_note.png)
 
 ### Reading a Note
-![Reading a Note](screenshots/Read_a_note.png)
+![Reading a Note](src/screenshots/Read_a_note.png)
 
 ### Deleting a Note
-![Deleting a Note](screenshots/Delete_a_note.png)
+![Deleting a Note](src/screenshots/Delete_a_note.png)
 
 ### Showing all notes
-![Showing all notes](screenshots/Show_all_notes.png)
+![Showing all notes](src/screenshots/Show_all_notes.png)
 
 ## Repository Structure
 Main.kt → Source code
