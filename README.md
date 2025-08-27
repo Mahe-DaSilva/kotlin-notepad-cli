@@ -51,11 +51,11 @@ You can run the project directly in **GitHub Codespaces**:
 ![Showing all notes](src/screenshots/Show_all_notes.png)
 
 ## Repository Structure
-Main.kt → Source code
-README.md → Documentation
+Main.kt → Source code  
+README.md → Documentation  
 screenshots/ → Screenshots and demo GIF
 
 ## Made With
-Kotlin
-GitHub Codespaces
-Git version control
+Kotlin  
+GitHub Codespaces  
+Git version control  
